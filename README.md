@@ -16,6 +16,6 @@
 
 ## GitHub Stats
 
-![tommyhosewol GitHub Stats](https://github-readme-stats.tommyhosewol.vercel.app/api?username=tommyhosewol&count_private=true&include_all_commits=true&show_icons=true)
+![tommyhosewol GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommyhosewol&count_private=true&include_all_commits=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.tommyhosewol.vercel.app/api/top-langs/?username=tommyhosewol&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhosewol&layout=compact)
