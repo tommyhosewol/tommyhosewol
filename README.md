@@ -3,7 +3,8 @@
 ## Experience
 
 <!-- EDUCATIONS-LIST:START -->
-- Software Developer - ASB Security | 2020 - NOW
+- Teacher of IT - Summa College | MAR 2021 - PRESENT
+- Software Developer - ASB Security | 2020 - NOV 2022
 - Web Specialist | 2018 - 2019
 <!-- EDUCATIONS-LIST:END -->
 
